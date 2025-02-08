@@ -150,14 +150,14 @@ export const IndustryPonits = () => {
   return (
     <>
       <h2 className="text-center text-xl md:text-2xl lg:text-4xl font-bold tracking-tight text-white leading-snug m-20">
-        <span className="text-secondary-blue">Industries We Worked For</span>
+        <span className="text-secondary-blue text-[33px]">Industries We Worked For</span>
       </h2>
 
       <p className="text-center text-sm sm:text-base md:text-lg text-text-light mt-4">
-        <strong>Our Commitment to You:</strong>
+        <strong className="text-[29px]">Our Commitment to You:</strong>
       </p>
 
-      <ul className="text-center text-sm sm:text-base text-text-light mt-2 space-y-2">
+      <ul className="text-center text-[25px]  text-text-light mt-2 space-y-2">
         <li>✔ 100% satisfaction guarantee: We're not happy until you are.</li>
         <li>✔ Certified and trusted: Micro Sonic adheres to industry-leading security and quality standards.</li>
         <li>✔ Proven track record: Over <strong>2 years</strong> of delivering successful web development projects.</li>
